@@ -1,5 +1,7 @@
 # 2D-Motion-Profile
-LabVIEW code for generating 2D Motion Profiles
+LabVIEW code for testing Motion Profile related things
 
-The 2D Motion profile code is a LabVIEW version of the java code in this repository:
+There are folders for generating 2D profiles, 1D profiles, testing said profiles, and a robot project for testing on an actual robot.
+
+The 2D Motion profile generating code is a LabVIEW version of the java code in this repository:
 https://github.com/KHEngineering/SmoothPathPlanner
