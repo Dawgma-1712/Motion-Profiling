@@ -137,6 +137,9 @@ AddOutputFilter chunkFilter
 		<Item Name="Computations" Type="Folder">
 			<Item Name="derivative.vi" Type="VI" URL="../derivative.vi"/>
 			<Item Name="integral.vi" Type="VI" URL="../integral.vi"/>
+			<Item Name="LinearInterpolate.vi" Type="VI" URL="../LinearInterpolate.vi"/>
+			<Item Name="CheesyDrive.vi" Type="VI" URL="../CheesyDrive.vi"/>
+			<Item Name="HandleDeadband.vi" Type="VI" URL="../HandleDeadband.vi"/>
 		</Item>
 		<Item Name="Helper VIs" Type="Folder">
 			<Item Name="DriveStraight.vi" Type="VI" URL="../DriveStraight.vi"/>
@@ -149,6 +152,14 @@ AddOutputFilter chunkFilter
 			<Item Name="GetEncoderValues.vi" Type="VI" URL="../GetEncoderValues.vi"/>
 			<Item Name="ZeroGyro.vi" Type="VI" URL="../ZeroGyro.vi"/>
 			<Item Name="GetGyroAngle.vi" Type="VI" URL="../GetGyroAngle.vi"/>
+		</Item>
+		<Item Name="PurePursuit" Type="Folder">
+			<Item Name="PurePursuitTester.vi" Type="VI" URL="../PurePursuitTester.vi"/>
+			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
+			<Item Name="InjectPoints.vi" Type="VI" URL="../InjectPoints.vi"/>
+			<Item Name="LookAheadPoint.vi" Type="VI" URL="../LookAheadPoint.vi"/>
+			<Item Name="CalculateCurvature.vi" Type="VI" URL="../CalculateCurvature.vi"/>
+			<Item Name="DistanceFormula.vi" Type="VI" URL="../DistanceFormula.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -716,9 +727,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="LinearInterpolate.vi" Type="VI" URL="../LinearInterpolate.vi"/>
-			<Item Name="HandleDeadband.vi" Type="VI" URL="../HandleDeadband.vi"/>
-			<Item Name="CheesyDrive.vi" Type="VI" URL="../CheesyDrive.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
