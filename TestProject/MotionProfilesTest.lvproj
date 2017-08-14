@@ -141,6 +141,7 @@ AddOutputFilter chunkFilter
 			<Item Name="CheesyDrive.vi" Type="VI" URL="../CheesyDrive.vi"/>
 			<Item Name="HandleDeadband.vi" Type="VI" URL="../HandleDeadband.vi"/>
 			<Item Name="EncodersGyroToXY.vi" Type="VI" URL="../EncodersGyroToXY.vi"/>
+			<Item Name="RateLimiter.vi" Type="VI" URL="../RateLimiter.vi"/>
 		</Item>
 		<Item Name="Helper VIs" Type="Folder">
 			<Item Name="DriveStraight.vi" Type="VI" URL="../DriveStraight.vi"/>
@@ -711,6 +712,7 @@ AddOutputFilter chunkFilter
 				<Item Name="NetComm_getJoystickAxes.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_getJoystickAxes.vi"/>
 				<Item Name="NetComm_getJoystickButtons.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_getJoystickButtons.vi"/>
 				<Item Name="NetComm_getJoystickPOVs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_getJoystickPOVs.vi"/>
+				<Item Name="WPI_EncoderReset.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderReset.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
