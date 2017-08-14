@@ -140,6 +140,7 @@ AddOutputFilter chunkFilter
 			<Item Name="LinearInterpolate.vi" Type="VI" URL="../LinearInterpolate.vi"/>
 			<Item Name="CheesyDrive.vi" Type="VI" URL="../CheesyDrive.vi"/>
 			<Item Name="HandleDeadband.vi" Type="VI" URL="../HandleDeadband.vi"/>
+			<Item Name="EncodersGyroToXY.vi" Type="VI" URL="../EncodersGyroToXY.vi"/>
 		</Item>
 		<Item Name="Helper VIs" Type="Folder">
 			<Item Name="DriveStraight.vi" Type="VI" URL="../DriveStraight.vi"/>
@@ -160,8 +161,10 @@ AddOutputFilter chunkFilter
 			<Item Name="LookAheadPoint.vi" Type="VI" URL="../LookAheadPoint.vi"/>
 			<Item Name="CalculateCurvature.vi" Type="VI" URL="../CalculateCurvature.vi"/>
 			<Item Name="DistanceFormula.vi" Type="VI" URL="../DistanceFormula.vi"/>
+			<Item Name="CalculatePowerPursuit.vi" Type="VI" URL="../CalculatePowerPursuit.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="VisualizePurePursuit.vi" Type="VI" URL="../VisualizePurePursuit.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
