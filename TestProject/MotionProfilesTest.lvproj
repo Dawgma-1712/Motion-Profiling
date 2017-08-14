@@ -162,9 +162,9 @@ AddOutputFilter chunkFilter
 			<Item Name="CalculateCurvature.vi" Type="VI" URL="../CalculateCurvature.vi"/>
 			<Item Name="DistanceFormula.vi" Type="VI" URL="../DistanceFormula.vi"/>
 			<Item Name="CalculatePowerPursuit.vi" Type="VI" URL="../CalculatePowerPursuit.vi"/>
+			<Item Name="VisualizePurePursuit.vi" Type="VI" URL="../VisualizePurePursuit.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="VisualizePurePursuit.vi" Type="VI" URL="../VisualizePurePursuit.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
