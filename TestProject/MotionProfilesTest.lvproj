@@ -164,6 +164,7 @@ AddOutputFilter chunkFilter
 			<Item Name="CalculateCurvature.vi" Type="VI" URL="../CalculateCurvature.vi"/>
 			<Item Name="CalculatePowerPursuit.vi" Type="VI" URL="../CalculatePowerPursuit.vi"/>
 			<Item Name="VisualizePurePursuit.vi" Type="VI" URL="../VisualizePurePursuit.vi"/>
+			<Item Name="EndOfPathHandler.vi" Type="VI" URL="../EndOfPathHandler.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -712,7 +713,6 @@ AddOutputFilter chunkFilter
 				<Item Name="NetComm_getJoystickAxes.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_getJoystickAxes.vi"/>
 				<Item Name="NetComm_getJoystickButtons.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_getJoystickButtons.vi"/>
 				<Item Name="NetComm_getJoystickPOVs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_getJoystickPOVs.vi"/>
-				<Item Name="WPI_EncoderReset.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderReset.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
