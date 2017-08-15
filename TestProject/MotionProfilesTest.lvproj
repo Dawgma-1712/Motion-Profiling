@@ -142,6 +142,7 @@ AddOutputFilter chunkFilter
 			<Item Name="HandleDeadband.vi" Type="VI" URL="../HandleDeadband.vi"/>
 			<Item Name="EncodersGyroToXY.vi" Type="VI" URL="../EncodersGyroToXY.vi"/>
 			<Item Name="RateLimiter.vi" Type="VI" URL="../RateLimiter.vi"/>
+			<Item Name="DistanceFormula.vi" Type="VI" URL="../DistanceFormula.vi"/>
 		</Item>
 		<Item Name="Helper VIs" Type="Folder">
 			<Item Name="DriveStraight.vi" Type="VI" URL="../DriveStraight.vi"/>
@@ -161,7 +162,6 @@ AddOutputFilter chunkFilter
 			<Item Name="InjectPoints.vi" Type="VI" URL="../InjectPoints.vi"/>
 			<Item Name="LookAheadPoint.vi" Type="VI" URL="../LookAheadPoint.vi"/>
 			<Item Name="CalculateCurvature.vi" Type="VI" URL="../CalculateCurvature.vi"/>
-			<Item Name="DistanceFormula.vi" Type="VI" URL="../DistanceFormula.vi"/>
 			<Item Name="CalculatePowerPursuit.vi" Type="VI" URL="../CalculatePowerPursuit.vi"/>
 			<Item Name="VisualizePurePursuit.vi" Type="VI" URL="../VisualizePurePursuit.vi"/>
 		</Item>
