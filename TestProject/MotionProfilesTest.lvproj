@@ -164,6 +164,7 @@ AddOutputFilter chunkFilter
 			<Item Name="CalculateCurvature.vi" Type="VI" URL="../CalculateCurvature.vi"/>
 			<Item Name="CalculatePowerPursuit.vi" Type="VI" URL="../CalculatePowerPursuit.vi"/>
 			<Item Name="VisualizePurePursuit.vi" Type="VI" URL="../VisualizePurePursuit.vi"/>
+			<Item Name="Smoother.vi" Type="VI" URL="../Smoother.vi"/>
 			<Item Name="EndOfPathHandler.vi" Type="VI" URL="../EndOfPathHandler.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
